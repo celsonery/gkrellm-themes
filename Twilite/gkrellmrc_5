@@ -1,0 +1,7 @@
+##########################################################################
+# Font settings
+##########################################################################
+
+large_font = "-monotype-arial-medium-r-normal-*-*-110-*-*-p-*-iso8859-1"
+normal_font = "-monotype-arial-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+small_font   = "-monotype-arial-medium-r-normal-*-*-90-*-*-p-*-iso8859-1"

@@ -1,0 +1,7 @@
+##########################################################################
+# Font settings
+##########################################################################
+
+large_font = "-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+normal_font = "-adobe-helvetica-medium-r-normal-*-*-80-*-*-p-*-iso8859-1"
+small_font   = "-adobe-helvetica-medium-r-normal-*-*-80-*-*-p-*-iso8859-1"

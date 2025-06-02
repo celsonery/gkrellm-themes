@@ -1,0 +1,7 @@
+##########################################################################
+# Font settings
+##########################################################################
+
+large_font = "-schumacher-clean-medium-r-normal-*-*-120-*-*-c-*-iso646.1991-irv"
+normal_font = "-schumacher-clean-medium-r-normal-*-*-100-*-*-c-*-iso646.1991-irv"
+small_font = "-schumacher-clean-medium-r-normal-*-*-80-*-*-c-*-iso646.1991-irv"
